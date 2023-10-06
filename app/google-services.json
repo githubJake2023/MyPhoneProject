@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "839428370360",
+    "firebase_url": "https://myphoneproject-87096-default-rtdb.firebaseio.com",
+    "project_id": "myphoneproject-87096",
+    "storage_bucket": "myphoneproject-87096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839428370360:android:49935a202dd43b978c294d",
+        "android_client_info": {
+          "package_name": "com.example.myphoneproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnF4Vksrn-y_LnCmZIxoI0XyqGHnhrpNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/call"
+        android:title="Call contact"></item>
+    <item android:id="@+id/send"
+        android:title="Send SMS"></item>
+    <item android:id="@+id/update"
+        android:title="Edit Contact"></item>
+    <item android:id="@+id/delete"
+        android:title="Delete Contact"></item>
+</menu>
